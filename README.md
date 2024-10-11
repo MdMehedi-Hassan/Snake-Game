@@ -1,7 +1,5 @@
 # Snake Game in Python 🐍
 
-### Created by [Mehedi Hassan](https://github.com/MdMehedi-Hassan)
-
 This is a simple Snake Game built using Python 3 and the `turtle` module. The game allows users to control the snake, eat food, and grow larger while avoiding collisions with the screen borders or its own body.
 
 ## Features
