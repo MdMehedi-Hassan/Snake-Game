@@ -1,6 +1,6 @@
 # Snake Game in Python 🐍
 
-### Created by [Mehedi Hassan](https://github.com/your-username)
+### Created by [Mehedi Hassan](https://github.com/MdMehedi-Hassan)
 
 This is a simple Snake Game built using Python 3 and the `turtle` module. The game allows users to control the snake, eat food, and grow larger while avoiding collisions with the screen borders or its own body.
 
@@ -42,5 +42,3 @@ Feel free to modify the game to your liking! You can:
 - Adjust the game window size.
 - Customize the snake and food appearance.
 
-## License
-This project is open-source and available under the [MIT License](LICENSE).
